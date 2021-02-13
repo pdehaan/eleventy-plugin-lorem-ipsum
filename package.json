@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-plugin-lorem-ipsum",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.3"
+  },
+  "devDependencies": {},
+  "description": "Lorem ipsum placeholder text for Eleventy."
+}
