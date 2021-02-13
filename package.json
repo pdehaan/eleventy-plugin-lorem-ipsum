@@ -1,16 +1,24 @@
 {
   "name": "eleventy-plugin-lorem-ipsum",
+  "description": "Lorem ipsum placeholder text for Eleventy.",
   "version": "1.0.0",
-  "main": ".eleventy.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
-  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pdehaan/eleventy-plugin-lorem-ipsum/issues"
+  },
   "dependencies": {
     "lorem-ipsum": "^2.0.3"
   },
   "devDependencies": {},
-  "description": "Lorem ipsum placeholder text for Eleventy."
+  "homepage": "https://github.com/pdehaan/eleventy-plugin-lorem-ipsum#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/eleventy-plugin-lorem-ipsum.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
