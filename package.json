@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "homepage": "https://github.com/pdehaan/eleventy-plugin-lorem-ipsum#readme",
-  "keywords": [],
+  "keywords": ["eleventy", "11ty", "eleventy-plugin", "11ty-plugin"],
   "license": "MPL-2.0",
   "main": ".eleventy.js",
   "repository": {
